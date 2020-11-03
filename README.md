@@ -41,8 +41,8 @@ Senti que os templates poderiam ser encontrados de uma forma mais rápida e não
 # Quick Start
 
 ## Rodando localmente:
-1 - Clone o projeto `git clone https://github.com/marcoshenrique-dev/template-finder.git`
-2 - Entre na pasta do projeto: `cd template-finder`
+1 - Clone o projeto `git clone https://github.com/marcoshenrique-dev/template-finder-back-end.git`
+2 - Entre na pasta do projeto: `cd template-finder-back-end`
 3 - Instale os pacotes requeridos: `yarn`
 4 - Copie o arquivo .env.example par .env `cp .env.example .env`
 4 - Rode o template-finder: `yarn start`
@@ -54,7 +54,7 @@ Antes de mais nada você precisa ter instalado o docker e o docker-compose nno s
 
 # Contribuições
 
-- Todos podem contribuir, através do [discord](https://discord.gg/8DP5TaM) ou pelas [issues](https://github.com/marcoshenrique-dev/template-finder/issues/new/choose).
+- Todos podem contribuir, através do [discord](https://discord.gg/8DP5TaM) ou pelas [issues](https://github.com/marcoshenrique-dev/template-finder-back-end/issues/new/choose).
 - Contribua também com o [design](https://www.figma.com/file/laRLmG1duFmHMfrmdfzeIf/template-finder-contribui%C3%A7%C3%B5es?node-id=427%3A2).
   <br>
 
