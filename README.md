@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".github/assets/images/logo-light-vertical.png" alt="Template finder logo" width="250px">
+    <img src="https://raw.githubusercontent.com/marcoshenrique-dev/template-finder/master/.github/assets/images/logo-light-vertical.png" alt="Template finder logo" width="250px">
     <h2 align="center">
         Encontre templates para seus projetos.
     </h2>
